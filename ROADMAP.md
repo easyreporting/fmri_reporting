@@ -1,5 +1,5 @@
 ## Roadmap
-Listing all the things you need to report your fMRI study in compliance with best practices.
+How-to report your fMRI study in compliance with best practices.
 
 ### Next steps
 
