@@ -12,3 +12,5 @@ This course explores current solutions to share data and code in support of the 
 
 
 <!--Showing your working is a great way to advertise your work and build new collaborations. -->
+## How?
+The course will be developed on GitHub and launched as a website. 
