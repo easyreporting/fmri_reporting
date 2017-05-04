@@ -8,7 +8,6 @@ This course explores current solutions to share data and code in support of the 
 
 This documents is a set of guidelines for contributing to 'fmri reporting tutorial' on GitHub. These are guidelines, not rules. This guide is meant to make it easy for you to get involved.
 
-* [What we're working on](#what-were-working-on)
 * [How to submit changes](#how-to-submit-changes)
 * [How to report bugs](#how-to-report-bugs)
 * [Communication channels](#communication-channels)
@@ -29,12 +28,10 @@ Notice a mistake? Please file any bugs, requests, or questions in our [issue tra
 
 ## Communication channels
 
-
-Do you have a chat room or email list you use to discuss this project? List them all here! Provide clear contact info, and outline the process for getting in touch, for anyone with questions.
+We'll use GitHub to communicate about this project. Feel free to [create a new issue](https://github.com/cmaumet/fmri_reporting/issues/new) if you would like to start up a new discussion or have a question.
 
 ## Participation guidelines
 This project was started as part of Mozilla Open Leadership Training Round 3. Contributors are asked to follow [Mozilla Community Participation Guidelines](https://www.mozilla.org/en-US/about/governance/policies/participation/).
-
 
 ---
 This contributing file was created using [Mozilla's CONTRIBUTING.md template](https://github.com/acabunoc/mozsprint-repo-template/blob/master/CONTRIBUTING.md).
