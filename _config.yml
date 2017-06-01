@@ -6,17 +6,17 @@
 kind: "lesson"
 
 # Overall title for pages.
-title: "Lesson template for Neurohackweek"
+title: "Easy fMRI reporting"
 
 # Repository URL (without trailing slash).
-repo: https://github.com/neurohackweek/lesson-template
+repo: https://github.com/easyreporting/fmri_reporting
 
 # Root URL below username.github.io domain, with leading slash but no trailing slash.
 # For example, for 'https://neurohackweek.github.io/lesson-example', use '/lesson-example'.
-root: "/lesson-template"
+root: "/fmri_reporting"
 
 # Contact email address.
-email: arokem@uw.edu
+email: cmj.maumet@gmail.com
 
 #------------------------------------------------------------
 # Generic settings (should not need to change).
