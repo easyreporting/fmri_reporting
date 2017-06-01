@@ -13,7 +13,7 @@ This course explores current solutions to share data and code in support of the 
 
 <!--Showing your working is a great way to advertise your work and build new collaborations. -->
 ## How?
-The course will be developed on GitHub and launched as a website. 
+The course will be developed on GitHub and launched as a website. Preview is available at: https://easyreporting.github.io/fmri_reporting/.
 
 ## Contributing
 All contributions are very welcome! 
@@ -22,6 +22,6 @@ In particular, we are very interested to hear from you if you've published data 
 
 For other ways to get involved, please have a look at our [open issues](https://github.com/cmaumet/fmri_reporting/issues). 
 
-Please have a look at our [contributon guidelines](https://github.com/cmaumet/fmri_reporting/blob/master/CONTRIBUTING.md). 
+Please have a look at our [contribution guidelines](https://github.com/cmaumet/fmri_reporting/blob/master/CONTRIBUTING.md). 
 
 This project was started as part of Mozilla Open Leadership Training Round 3. Contributors are asked to follow [Mozilla Community Participation Guidelines](https://www.mozilla.org/en-US/about/governance/policies/participation/).
