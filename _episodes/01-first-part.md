@@ -57,7 +57,7 @@ affine = img.affine
 
 Images can be embedded into the lesson plan, by using the following syntax:
 
-![an image]({{site.root}}/fig/nhw-logo.png)
+![an image]({{site.root}}/fig/fmri_reporting_logo.png)
 
 To embed images, you will also want to copy the image file into the
 `fig` folder of the repository, and add that.
