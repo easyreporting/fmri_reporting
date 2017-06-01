@@ -1,5 +1,5 @@
 # fmri_reporting
-Easy best practice reporting for your fMRI study!
+Practical solutions to follow open science best practices in fMRI research. Learn the tools to make your fMRI study transparent!
 
 <!-- Outline the problem. Hard to share (meta)data => we don't. Benefits of sharing data. Help you do that.-->
 <!-- So, you've performed your fMRI study and now you want to document what you've done. -->
