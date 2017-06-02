@@ -1,5 +1,5 @@
 ---
-title: "How to publish fMRI results data?"
+title: "Publishing fMRI results data"
 teaching: 15
 exercises: 0
 questions:
@@ -12,16 +12,20 @@ keypoints:
 - TODO
 ---
 
-### Why publishing fMRI results data is a best practice?
+### Best practice for publishing outcome of statistical tests
 
-In task-based fMRI, we usually perform multiple tests that cover the full brain. Best statistical practices for reporting results of hypothesis tests mandate reporting of the outcome of each test along with the p-value, type of statistic and parameters (e.g. degrees of freedom for a T-test) and the statistic value. For fMRI, this is equivalent with publishing images of brainwise p-values and statistic values along with metadata describing the testing procedure.
+Best statistical practices for reporting results of hypothesis tests mandate reporting of the outcome of each test along with the p-value, type of statistic and parameters (e.g. degrees of freedom for a T-test) and the statistic value (TODO add ref). 
 
+In task-based fMRI, we usually perform multiple tests to cover the full brain. Complying with best practices therefore means publishing images of brainwise p-values and statistic values along with metadata describing the testing procedure. This lesson describes how to share these data and metadata.
 
 ### How can fMRI results data be reused?
 Image data describing the the results from multiple fMRI studies can be combined to obtain a quantitative synthesis through image-based meta-analysis. 
 
+### How to publish your fMRI results data
 
-### Using a template allows to create websites for each of the lectures
+#### Gathering the data and metadata
+
+#### Publication
 
 To enable access to the materials in an open format, but allow different
 instructors freedom in constructing their own materials, we provide a template
