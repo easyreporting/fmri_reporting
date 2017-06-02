@@ -1,25 +1,25 @@
 ---
-title: "An introduction to this lesson"
+title: "How to publish fMRI results data?"
 teaching: 15
 exercises: 0
 questions:
-- "What do we need a template for?"
+- "Why publishing fMRI results data?"
 objectives:
-- "Edit lesson materials in the template"
-- "Contribute fixes through Github PRs"
-- "Use the template to create your own lesson"
+- TODO
+- TODO
 keypoints:
-- We want to use this template to provide lesson materials in an open and useful format.
-
-- This is in line with our overall goal of making science (including scientific training) more open.
-
+- TODO
+- TODO
 ---
 
-### Neurohackweek is *open*
+### Why publishing fMRI results data is a best practice?
 
-The Neurohackweek event can only accommodate a limited number of participants.
-Nevertheless, we are committed to openness and we are committed to providing our
-materials in an open format, through a publicly accessible website.
+In task-based fMRI, we usually perform multiple tests that cover the full brain. Best statistical practices for reporting results of hypothesis tests mandate reporting of the outcome of each test along with the p-value, type of statistic and parameters (e.g. degrees of freedom for a T-test) and the statistic value. For fMRI, this is equivalent with publishing images of brainwise p-values and statistic values along with metadata describing the testing procedure.
+
+
+### How can fMRI results data be reused?
+Image data describing the the results from multiple fMRI studies can be combined to obtain a quantitative synthesis through image-based meta-analysis. 
+
 
 ### Using a template allows to create websites for each of the lectures
 
