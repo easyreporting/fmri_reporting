@@ -12,11 +12,12 @@ keypoints:
 - TODO
 ---
 
-### Best practice for publishing outcome of statistical tests
+### Why publishing fMRI results data
+The most widespread approach to analyze task-based fMRI, often termed "mass univariate", is to compute one statistical test at each location in the brain.
 
-Best statistical practices for reporting results of hypothesis tests mandate reporting of the outcome of each test along with the p-value, type of statistic and parameters (e.g. degrees of freedom for a T-test) and the statistic value (TODO add ref). 
+Best statistical practices for reporting results of hypothesis tests (e.g. [SAMPL guidelines](http://www.equator-network.org/wp-content/uploads/2013/03/SAMPL-Guidelines-3-13-13.pdf)) call for reporting of the outcome of each test along with a number of statistic including: the p-value, the type of statistic used, the parametrisation of the test statistic (e.g. degrees of freedom for a T-test) and the statistic value. 
 
-In task-based fMRI, we usually perform multiple tests to cover the full brain. Complying with best practices therefore means publishing images of brainwise p-values and statistic values along with metadata describing the testing procedure. This lesson describes how to share these data and metadata.
+For fMRI, complying with best practices means publishing one image for each type of statistic to be reported (p-value, statistic value) and a set of metadata describing the testing procedure (type of statistic test, parameters). This lesson describes how to share these data and metadata.
 
 ### How can fMRI results data be reused?
 Image data describing the the results from multiple fMRI studies can be combined to obtain a quantitative synthesis through image-based meta-analysis. 
@@ -24,6 +25,32 @@ Image data describing the the results from multiple fMRI studies can be combined
 ### How to publish your fMRI results data
 
 #### Gathering the data and metadata
+All the data and metadat are usually available to the neuroimaging software package that was used to perform the analysis. But each software package has a different way to store these information. The NIDM-Results specification provides a harmonised representation across neuroimaging software packages in the form of a zip archive that contains all the images and metadata describing the results. 
+
+
+> ## Export your SPM results into a NIDM-Results pack
+>
+>  Boxes with "challenges" can be interleaved with the lesson materials.
+>  Consider adding a challenge every 15 minutes or so.
+>    - This helps participants stay engaged.
+>    - It surfaces questions that learners have as they go along.
+>    - It breaks up the instruction, providing a bit of a diversion.
+>    - It gives people a chance to engage in peer instruction, which is
+>      is [known to help learning](https://en.wikipedia.org/wiki/Peer_instruction).
+{: .challenge}
+
+> ## Export your FSL results into a NIDM-Results pack
+>
+>  Boxes with "challenges" can be interleaved with the lesson materials.
+>  Consider adding a challenge every 15 minutes or so.
+>    - This helps participants stay engaged.
+>    - It surfaces questions that learners have as they go along.
+>    - It breaks up the instruction, providing a bit of a diversion.
+>    - It gives people a chance to engage in peer instruction, which is
+>      is [known to help learning](https://en.wikipedia.org/wiki/Peer_instruction).
+{: .challenge}
+
+
 
 #### Publication
 
@@ -66,16 +93,6 @@ Images can be embedded into the lesson plan, by using the following syntax:
 To embed images, you will also want to copy the image file into the
 `fig` folder of the repository, and add that.
 
-> ## Exercises and challenges (click on the arrow to the right to open)
->
->  Boxes with "challenges" can be interleaved with the lesson materials.
->  Consider adding a challenge every 15 minutes or so.
->    - This helps participants stay engaged.
->    - It surfaces questions that learners have as they go along.
->    - It breaks up the instruction, providing a bit of a diversion.
->    - It gives people a chance to engage in peer instruction, which is
->      is [known to help learning](https://en.wikipedia.org/wiki/Peer_instruction).
-{: .challenge}
 
 
 > ## Callouts
